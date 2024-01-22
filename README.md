@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project out there
 - 📫 How to reach me, my mail is :unmeshsubedi6@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Not so fun but my favorite language is C.
+- ⚡ Fun fact: My favorite language is C.
 
 <!---
 Celestial071/Celestial071 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
